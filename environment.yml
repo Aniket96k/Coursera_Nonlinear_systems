@@ -7,4 +7,5 @@ dependencies:
   - xeus-octave
   - matplotlib
   - numpy
+  - octave_kernel
  
