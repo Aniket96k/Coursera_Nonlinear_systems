@@ -3,14 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyter
-  - xeus-octave
-  - matplotlib
-  - numpy
-  - octave_kernel
-  - pip
-  - pip:
-    - xoctave     # Add any other packages you need via pip
+
   - cxx-compiler
   - c-compiler
   - cmake
