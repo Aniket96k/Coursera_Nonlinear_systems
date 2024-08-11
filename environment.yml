@@ -17,6 +17,7 @@ dependencies:
   - glad
   - glfw
   - libpng
+  - xoctave
   # Test dependencies
   - pre-commit
   - clang-tools
