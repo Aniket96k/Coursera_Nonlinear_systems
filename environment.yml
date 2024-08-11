@@ -9,5 +9,5 @@ dependencies:
   - numpy
   - octave_kernel
   - pip
-    - pip:
+  - pip:
     - xoctave     # Add any other packages you need via pip
