@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-
   - cxx-compiler
   - c-compiler
   - cmake
