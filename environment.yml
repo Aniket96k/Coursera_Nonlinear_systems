@@ -1,4 +1,4 @@
-name: xeus-octave
+name: octave-env
 channels:
   - conda-forge
   - defaults
@@ -8,6 +8,13 @@ dependencies:
   - cmake
   - make
   - pkg-config
+  - python=3.9  # or your preferred Python version
+  - octave
+  - jupyter
+  - ipykernel
+  - xeus-cling
+  - jupyterlab
+  - octave_kernel  # Optional: If you want to use Octave with Jupyter Notebooks
   # Host dependencies
   - libuuid
   - xeus>=5.0.0
