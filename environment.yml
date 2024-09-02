@@ -12,7 +12,6 @@ dependencies:
   - octave
   - jupyter
   - ipykernel
-  - xeus-cling
   - jupyterlab
   - octave_kernel  # Optional: If you want to use Octave with Jupyter Notebooks
   # Host dependencies
